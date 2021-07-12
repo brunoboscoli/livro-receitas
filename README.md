@@ -4,3 +4,5 @@ Olá, Bem vindo ao meu livro de receitas :shallow_pan_of_food:
 
 - Strogonoff de Frango
 - Pavê
+- Bolo de cenoura
+
